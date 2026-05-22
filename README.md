@@ -7,7 +7,7 @@ This repository documents my undergraduate research in number theory at Korea Un
 
 ### Phase 1: Directed Reading Program (Sep 2025 - Dec 2025)
 * **Objective**: Establish a strong theoretical foundation in elementary number theory and conduct an in-depth literature review.
-* **Primary Textbook**: *Elementary Number Theory and Its Applications* (6th Edition) by Bart Goddard and Kenneth H. Rosen.
+* **Primary Textbook**: *[Elementary Number Theory and Its Applications](https://www.tbooks.solutions/elementary-number-theory-and-its-applications-bart-goddard-kenneth-h-rosen-6th-edition/)* (6th Edition) by Bart Goddard and Kenneth H. Rosen.
 * **Key Literature**: *[On Euler's Totient Function](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-38/issue-10/On-Eulers-totient-function/bams/1183496203.pdf)* by D. H. Lehmer.
 * **Focus**: Understanding the Lehmer property and developing the ability to critically read and synthesize foundational mathematical papers.
 
