@@ -1,7 +1,7 @@
 # Undergraduate Research in Number Theory
 
 ## 📌 Overview
-[cite_start]This repository documents my undergraduate research in number theory at Korea University, conducted under the advisement of Prof. Dae Jun Kim[cite: 12]. [cite_start]The research is structured into two main phases: a Directed Reading Program (DRP) focusing on elementary number theory [cite: 17][cite_start], and an ongoing computational investigation into additive number theory and quadratic forms[cite: 18].
+This repository documents my undergraduate research in number theory at Korea University, conducted under the advisement of Prof. [Dae Jun Kim](https://sites.google.com/view/daejunkim/home). The research is structured into two main phases: a Directed Reading Program (DRP) focusing on elementary number theory, and an ongoing computational investigation into additive number theory and quadratic forms.
 
 ## 📅 Project Timeline & Activities
 
