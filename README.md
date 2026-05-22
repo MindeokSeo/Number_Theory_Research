@@ -6,10 +6,10 @@ This repository documents my undergraduate research in number theory at Korea Un
 ## 📅 Project Timeline & Activities
 
 ### Phase 1: Directed Reading Program (Sep 2025 - Dec 2025)
-* [cite_start]**Objective**: Establish a strong theoretical foundation in elementary number theory and conduct an in-depth literature review[cite: 17].
+* **Objective**: Establish a strong theoretical foundation in elementary number theory and conduct an in-depth literature review.
 * **Primary Textbook**: *Elementary Number Theory and Its Applications* (6th Edition) by Bart Goddard and Kenneth H. Rosen.
-* **Key Literature**: *On Euler's Totient Function* by D. H. Lehmer.
-* [cite_start]**Focus**: Understanding the Lehmer property [cite: 17] and developing the ability to critically read and synthesize foundational mathematical papers.
+* **Key Literature**: *[On Euler's Totient Function](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-38/issue-10/On-Eulers-totient-function/bams/1183496203.pdf)* by D. H. Lehmer.
+* **Focus**: Understanding the Lehmer property and developing the ability to critically read and synthesize foundational mathematical papers.
 
 ### Phase 2: Additive Number Theory & Quadratic Forms (Jan 2026 - Present)
 * [cite_start]**Objective**: Investigate additive number theory, specifically focusing on the universality of weighted sums of generalized polygonal numbers[cite: 18].
