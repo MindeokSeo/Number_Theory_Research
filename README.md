@@ -14,8 +14,8 @@ This repository documents my undergraduate research in number theory at Korea Un
 ### Phase 2: Additive Number Theory & Quadratic Forms (Jan 2026 - Present)
 * **Objective**: Investigate additive number theory, specifically focusing on the universality of weighted sums of generalized polygonal numbers.
 * **Key Literature**: 
-  * *Weighted sums of generalized polygonal numbers with coefficients 1 or 2* by Daejun Kim.
-  * *A Short Proof of Cauchy's Polygonal Number Theorem* by Melvyn B. Nathanson.
+  * *[Weighted sums of generalized polygonal numbers with coefficients 1 or 2](https://arxiv.org/pdf/2006.04490)* by Daejun Kim.
+  * *[A Short Proof of Cauchy's Polygonal Number Theorem](https://www.theoryofnumbers.com/melnathanson/pdfs/nath1987-55.pdf)* by Melvyn B. Nathanson.
 * **Computational Implementation**:
   * Developed and implemented a Python algorithm utilizing escalator trees to computationally discover and verify universal coefficient tuples for generalized 9-gonal numbers.
   * Applied the mathematical concept of a **"truant"** (the smallest positive integer not represented by a given linear combination) to systematically construct and prune branches within the escalator trees.
