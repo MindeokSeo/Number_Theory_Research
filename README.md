@@ -26,4 +26,4 @@ This repository documents my undergraduate research in number theory at Korea Un
 * `docs/`: Summaries, literature review notes on the Lehmer property, Cauchy's polygonal number theorem, and generalized polygonal numbers.
 
 ## 👨‍🏫 Acknowledgements
-This research is conducted as part of the Undergraduate Research program at Korea University, under the continuous mentorship of Prof. Dae Jun Kim.
+This research is conducted as part of the Undergraduate Research program at Korea University, under the continuous mentorship of Prof. [Dae Jun Kim](https://sites.google.com/view/daejunkim/home).
