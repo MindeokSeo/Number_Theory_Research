@@ -11,13 +11,15 @@ This repository documents my undergraduate research in number theory at Korea Un
 * **Key Literature**: *[On Euler's Totient Function](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-38/issue-10/On-Eulers-totient-function/bams/1183496203.pdf)* by D. H. Lehmer.
 * **Focus**: Focused on understanding the Lehmer property and developing critical reading and synthesis skills for foundational mathematical papers.
 
-### Phase 2: Additive Number Theory, Quadratic Forms, & $p$-adic Numbers (Jan 2026 - Present)
+### Phase 2: Additive Number Theory, Quadratic Forms, & $p$-adic Numbers, Module Theory (Jan 2026 - Present)
 * **Objective**: Investigate additive number theory—specifically focusing on the universality of weighted sums of generalized polygonal numbers—and explore the analytic and algebraic properties of $p$-adic numbers.
 * **Key Literature**: 
   * *[Weighted sums of generalized polygonal numbers with coefficients 1 or 2](https://arxiv.org/pdf/2006.04490)* by Daejun Kim.
   * *[A Short Proof of Cauchy's Polygonal Number Theorem](https://www.theoryofnumbers.com/melnathanson/pdfs/nath1987-55.pdf)* by Melvyn B. Nathanson.
   * *[AN INTRODUCTION TO THE p-ADIC NUMBERS](https://math.uchicago.edu/~may/REU2020/REUPapers/Pomerantz.pdf)* by Alexa Pomerantz.
   * *[THE p-ADIC EXPANSION OF RATIONAL NUMBERS](https://kconrad.math.uconn.edu/blurbs/gradnumthy/rationalsinQp.pdf)* by Keith Conrad.
+  * *[Abstract Algebra]
+(https://edu.fjfi.cvut.cz/studijni-materialy/Ing/4.%20ro%C4%8Dn%C3%ADk/GR/David%20S.%20Dummit,%20Richard%20M.%20Foote%20-%20Abstract%20Algebra%20-%203rd%20Edition-John%20Wiley%20and%20Sons,%20Inc.%20%282004%29.pdf))* by David S. Dummit and Richard M. Foote.
 * **Computational Implementation**:
   * Developed and implemented a Python-based escalator tree algorithm to computationally discover and verify universal coefficient tuples for generalized 9-gonal numbers.
   * Applied the mathematical concept of a **"truant"** (the smallest positive integer not represented by a given linear combination) to systematically construct and prune branches within the escalator trees.
@@ -27,7 +29,9 @@ This repository documents my undergraduate research in number theory at Korea Un
   * Investigated the topological and geometric properties of $\mathbb{Q}_p$, including its nature as a totally disconnected ultrametric space where all triangles are isosceles.
   * Analyzed the $p$-adic expansions of rational numbers, focusing on the characterization that rational numbers correspond precisely to eventually periodic $p$-adic expansions.
   * Studied algorithms to compute these expansions, particularly noting that rational numbers in the interval $[-1, 0)$ with a $p$-adic absolute value of 1 have purely periodic expansions.
-
+* **Module Theory Study**:
+  * 
+  
 ## 📂 Repository Structure
 * `src/`: Python source code containing the escalator tree algorithm, truant verification logic, and polygonal number generators.
 * `docs/`: Summaries and literature review notes on the Lehmer property, Cauchy's polygonal number theorem, generalized polygonal numbers, and $p$-adic number theory.
