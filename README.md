@@ -18,8 +18,7 @@ This repository documents my undergraduate research in number theory at Korea Un
   * *[A Short Proof of Cauchy's Polygonal Number Theorem](https://www.theoryofnumbers.com/melnathanson/pdfs/nath1987-55.pdf)* by Melvyn B. Nathanson.
   * *[AN INTRODUCTION TO THE p-ADIC NUMBERS](https://math.uchicago.edu/~may/REU2020/REUPapers/Pomerantz.pdf)* by Alexa Pomerantz.
   * *[THE p-ADIC EXPANSION OF RATIONAL NUMBERS](https://kconrad.math.uconn.edu/blurbs/gradnumthy/rationalsinQp.pdf)* by Keith Conrad.
-  * *[Abstract Algebra]
-(https://edu.fjfi.cvut.cz/studijni-materialy/Ing/4.%20ro%C4%8Dn%C3%ADk/GR/David%20S.%20Dummit,%20Richard%20M.%20Foote%20-%20Abstract%20Algebra%20-%203rd%20Edition-John%20Wiley%20and%20Sons,%20Inc.%20%282004%29.pdf))* by David S. Dummit and Richard M. Foote.
+  * *[Abstract Algebra](https://edu.fjfi.cvut.cz/studijni-materialy/Ing/4.%20ro%C4%8Dn%C3%ADk/GR/David%20S.%20Dummit,%20Richard%20M.%20Foote%20-%20Abstract%20Algebra%20-%203rd%20Edition-John%20Wiley%20and%20Sons,%20Inc.%20%282004%29.pdf)* by David S. Dummit and Richard M. Foote.
 * **Computational Implementation**:
   * Developed and implemented a Python-based escalator tree algorithm to computationally discover and verify universal coefficient tuples for generalized 9-gonal numbers.
   * Applied the mathematical concept of a **"truant"** (the smallest positive integer not represented by a given linear combination) to systematically construct and prune branches within the escalator trees.
