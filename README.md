@@ -11,7 +11,7 @@ This repository documents my undergraduate research in number theory at Korea Un
 * **Key Literature**: *[On Euler's Totient Function](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-38/issue-10/On-Eulers-totient-function/bams/1183496203.pdf)* by D. H. Lehmer.
 * **Focus**: Focused on understanding the Lehmer property and developing critical reading and synthesis skills for foundational mathematical papers.
 
-### Phase 2: Additive Number Theory, Quadratic Forms, & $p$-adic Numbers, Module Theory (Jan 2026 - Present)
+### Phase 2: Additive Number Theory, Quadratic Forms, & $p$-adic Numbers, Module Theory (Jan 2026 - Sep 2026)
 * **Objective**: Investigate additive number theory—specifically focusing on the universality of weighted sums of generalized polygonal numbers—and explore the analytic and algebraic properties of $p$-adic numbers.
 * **Key Literature**: 
   * *[Weighted sums of generalized polygonal numbers with coefficients 1 or 2](https://arxiv.org/pdf/2006.04490)* by Daejun Kim.
@@ -31,7 +31,7 @@ This repository documents my undergraduate research in number theory at Korea Un
 * **Module Theory Study**:
   * 
 
-### Phase 3: Directed Reading Program (Sep 2025 - Dec 2025)
+### Phase 3: Directed Reading Program (Sep 2026 - Present)
 * **Objective**: Establish a strong theoretical foundation in elliptic curves.
 * **Key Literature**: 
   * *[The Arithmetic of Elliptic Curves](https://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf)* by Joseph H. Silverman.
