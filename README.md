@@ -30,7 +30,13 @@ This repository documents my undergraduate research in number theory at Korea Un
   * Studied algorithms to compute these expansions, particularly noting that rational numbers in the interval $[-1, 0)$ with a $p$-adic absolute value of 1 have purely periodic expansions.
 * **Module Theory Study**:
   * 
-  
+
+### Phase 3: Directed Reading Program (Sep 2025 - Dec 2025)
+* **Objective**: Establish a strong theoretical foundation in elliptic curves.
+* **Key Literature**: 
+  * *[The Arithmetic of Elliptic Curves](https://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf)* by Joseph H. Silverman.
+  * *[Rational Points on Elliptic Curves](https://link.springer.com/book/10.1007/978-3-319-18588-0)* by Joseph H. Silverman and John T. Tate.
+
 ## 📂 Repository Structure
 * `src/`: Python source code containing the escalator tree algorithm, truant verification logic, and polygonal number generators.
 * `docs/`: Summaries and literature review notes on the Lehmer property, Cauchy's polygonal number theorem, generalized polygonal numbers, and $p$-adic number theory.
