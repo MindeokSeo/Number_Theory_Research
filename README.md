@@ -1,7 +1,7 @@
 # Undergraduate Research in Number Theory
 
 ## 📌 Overview
-This repository documents my undergraduate research in number theory at Korea University, conducted under the advisement of Prof. [Dae Jun Kim](https://sites.google.com/view/daejunkim/home). The research is structured into three main phases: a Directed Reading Program (DRP) focusing on elementary number theory and elliptic curves, and an investigation into additive number theory, quadratic forms, and $p$-adic analysis.
+This repository documents my undergraduate research in number theory at Korea University, conducted under the advisement of Prof. [Daejun Kim](https://sites.google.com/view/daejunkim/home). The research is structured into three main phases: a Directed Reading Program (DRP) focusing on elementary number theory and elliptic curves, and an investigation into additive number theory, quadratic forms, and $p$-adic analysis.
 
 ## 📅 Project Timeline & Activities
 
@@ -42,4 +42,4 @@ This repository documents my undergraduate research in number theory at Korea Un
 * `docs/`: Summaries and literature review notes on the Lehmer property, Cauchy's polygonal number theorem, generalized polygonal numbers, and $p$-adic number theory.
 
 ## 👨‍🏫 Acknowledgements
-This research is conducted as part of the Undergraduate Research program at Korea University, under the continuous mentorship of Prof. [Dae Jun Kim](https://sites.google.com/view/daejunkim/home).
+This research is conducted as part of the Undergraduate Research program at Korea University, under the continuous mentorship of Prof. [Daejun Kim](https://sites.google.com/view/daejunkim/home).
