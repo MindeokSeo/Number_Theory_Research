@@ -11,7 +11,7 @@ This repository documents my undergraduate research in number theory at Korea Un
 * **Key Literature**: *[On Euler's Totient Function](https://projecteuclid.org/journals/bulletin-of-the-american-mathematical-society/volume-38/issue-10/On-Eulers-totient-function/bams/1183496203.pdf)* by D. H. Lehmer.
 * **Focus**: Focused on understanding the Lehmer property and developing critical reading and synthesis skills for foundational mathematical papers.
 
-### Phase 2: Additive Number Theory, Quadratic Forms, & $p$-adic Numbers, Module Theory (Jan 2026 - Sep 2026)
+### Phase 2: Additive Number Theory, Quadratic Forms, $p$-adic Numbers, Module Theory (Jan 2026 - Sep 2026)
 * **Objective**: Investigate additive number theory—specifically focusing on the universality of weighted sums of generalized polygonal numbers—and explore the analytic and algebraic properties of $p$-adic numbers.
 * **Key Literature**: 
   * *[Weighted sums of generalized polygonal numbers with coefficients 1 or 2](https://arxiv.org/pdf/2006.04490)* by Daejun Kim.
