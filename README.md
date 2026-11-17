@@ -42,8 +42,8 @@ This repository documents my undergraduate research in number theory at Korea Un
   * *[The Arithmetic of Elliptic Curves](https://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf)* by Joseph H. Silverman.
   * *[Rational Points on Elliptic Curves](https://link.springer.com/book/10.1007/978-3-319-18588-0)* by Joseph H. Silverman and John T. Tate.
 * **Algebraic Varieties Study**:
-  * Studied algebraic varieties(*[Silverman](https://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf)*, Chapter 1.1–1.3), including affine varieties, projective varieties, and maps between varieties.
-  * Studying algebraic curves(*[Silverman](https://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf)*, Chapter 2.1–2.2). 
+  * Studied algebraic varieties (*[Silverman](https://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf)*, Chapter 1.1–1.3), including affine varieties, projective varieties, and maps between varieties.
+  * Studying algebraic curves (*[Silverman](https://www.pdmi.ras.ru/~lowdimma/BSD/Silverman-Arithmetic_of_EC.pdf)*, Chapter 2.1–2.2). 
 
 ## 📂 Repository Structure
 * `src/`: Python source code containing the escalator tree algorithm, truant verification logic, and polygonal number generators.
